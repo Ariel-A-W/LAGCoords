@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\000_Mis Libros\\Programaci\u00F3n_C#_NET\\Blogs\\LAGCoords\\LAGCoords\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3498B304-B206-7BFF-7B4C-FB04167D51FB}|LAGCoords\\LAGCoords.csproj|e:\\000_mis libros\\programaci\u00F3n_c#_net\\blogs\\lagcoords\\lagcoords\\lagcoords\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3498B304-B206-7BFF-7B4C-FB04167D51FB}|LAGCoords\\LAGCoords.csproj|solutionrelative:lagcoords\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\000_Mis Libros\\Programaci\u00F3n_C#_NET\\Blogs\\LAGCoords\\LAGCoords\\LAGCoords\\Program.cs",
+              "RelativeDocumentMoniker": "LAGCoords\\Program.cs",
+              "ToolTip": "E:\\000_Mis Libros\\Programaci\u00F3n_C#_NET\\Blogs\\LAGCoords\\LAGCoords\\LAGCoords\\Program.cs*",
+              "RelativeToolTip": "LAGCoords\\Program.cs*",
+              "ViewState": "AgIAABkAAAAAAAAAAAAYwBwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T11:36:00.217Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
